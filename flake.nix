@@ -1,5 +1,5 @@
 {
-  description: "Setup node.js dan environment pada project insyst";
+  description = "Setup node.js dan environment pada project insyst";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
